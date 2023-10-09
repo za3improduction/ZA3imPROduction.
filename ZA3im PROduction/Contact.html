@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="fr"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Zaim Zineddine">
+    <meta name="description" content="">
+    <title>ZA3im PROduction</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Contact.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 5.18.6, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Contact">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-path-to-root="./" class="u-body u-xl-mode" data-lang="fr">
+    <section class="skrollable skrollable-between u-align-center u-clearfix u-image u-shading u-section-1" src="" id="carousel_5509" data-image-width="853" data-image-height="1280">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-align-center u-custom-font u-font-oswald u-text u-text-1">Zaim Zineddine</h2>
+        <p class="u-align-center u-custom-font u-font-courier-new u-large-text u-text u-text-variant u-text-2">Photographer &amp; Videographer<br>&nbsp;based in Setif
+        </p>
+        <div class="data-layout-selected u-clearfix u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-gutter-0 u-layout-custom-sm u-layout-custom-xs u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-right u-container-style u-layout-cell u-size-20 u-layout-cell-1">
+                <div class="u-container-layout u-valign-bottom-xs u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-container-layout-1">
+                  <a href="file:///C:/Users/com%20city/Downloads/Nouveau%20dossier%20(25)/home%20page/%C3%80-propos-de.html" target="_blank" class="u-active-white u-border-2 u-border-active-white u-border-custom-color-1 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-feature u-hover-white u-radius-50 u-text-active-black u-text-hover-black u-btn-1" data-animation-name="customAnimationIn" data-animation-duration="1000">book you event</a>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-size-20 u-layout-cell-2">
+                <div class="u-container-layout u-valign-middle-md u-valign-middle-sm u-container-layout-2">
+                  <a href="file:///C:/Users/com%20city/Downloads/Nouveau%20dossier%20(25)/Davis%20-%20Template/index.html" class="u-active-white u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-feature u-hover-white u-none u-radius-50 u-text-active-black u-text-hover-black u-btn-2" data-animation-name="customAnimationIn" data-animation-duration="1000">Portfolio</a>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-3">
+                <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-container-layout-3">
+                  <a href="tel:0794471601" class="u-active-white u-border-2 u-border-active-white u-border-custom-color-1 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-feature u-hover-white u-radius-50 u-text-active-black u-text-hover-black u-btn-3" data-animation-name="customAnimationIn" data-animation-duration="1000">call me</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+      
+    </section>
+    
+    
+    
+    
+   
+</body></html>
